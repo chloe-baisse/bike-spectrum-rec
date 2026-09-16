@@ -1,0 +1,5 @@
+*.pdf
+*.tar.xz
+.venv/*
+data/training_traces*
+data/testing_traces*
